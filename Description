@@ -1,4 +1,5 @@
 COVID-19 Data Analysis Project
+
 Overview
 This repository showcases an in-depth SQL analysis performed on global COVID-19 data, focusing on cases, deaths, and vaccination rates. The project utilizes Microsoft MySQL to explore complex relationships within the data to uncover insights into the pandemic’s impact and vaccination efforts.
 
